@@ -1,6 +1,6 @@
 @extends("layouts.app")
 @section("content")
-<table class="table">
+<table class="table ">
     <thead>
         <tr>
             <th>ID</th>
@@ -26,4 +26,5 @@
             </td>
         </tr>
     </tbody>
+</table>
 @endsection
